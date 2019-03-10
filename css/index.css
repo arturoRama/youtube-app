@@ -1,0 +1,59 @@
+body{
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+	margin: 10px;
+	padding: 10px;
+	font-weight: 400;
+}
+
+h1{
+	color: red;
+}
+
+p{
+	font-size: 18px;
+	color:black;
+	text-decoration: none;
+	font-weight:500;
+	float:left;
+}
+
+p:hover{
+	color: #0154b5;
+}
+
+a{
+	text-decoration: none;
+}
+
+img{
+	margin: 10px;
+	padding: 5px;
+	float:left;
+}
+.segment{
+	overflow: hidden;
+}
+
+.nav{
+	text-align: center;
+}
+
+#videoSearchBox{
+	padding: 12px 15px;
+	margin: 4px 0;
+	display:inline-block;
+	border:1px solid #ccc;
+	border-radius: 4px;
+}
+
+button{
+	cursor: pointer;
+	background-color: #e7e7e7;
+	border: none;
+	text-align: center;
+	display: inline-block;
+	width: 100px;
+	height: 42px;
+	border-radius: 6px;
+}
